@@ -3,9 +3,7 @@
 **Matière :** Développement d'applications réparties — LSI 3
 **Établissement :** Faculté des Sciences de Sfax, Département d'informatique et des Communications
 **Année universitaire :** 2026 – 2027
-**Étudiant :** *Prénom NOM*
-**Enseignante des TPs :** Zeineb DAOUD
-
+**Étudiant :** Wael Riahi
 ---
 
 ## 1. Introduction
@@ -295,4 +293,4 @@ java -cp out activite32.DemoConcurrence
 
 Le serveur détecte automatiquement l'IP de la machine (ou on peut la donner en argument). Le client demande l'IP du serveur au démarrage (Entrée = `localhost`). Les deux activités utilisent le port 1234 : n'en lancer qu'une à la fois.
 
-**Dépôt GitHub :** https://github.com/Waelriahii/TP3-DAR2026 *(à vérifier)*
+**Dépôt GitHub :** https://github.com/Waelriahii/TP3-DAR2026
